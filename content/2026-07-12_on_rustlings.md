@@ -1,7 +1,7 @@
 ---
 title: On Rustlings
 description: just my thoughts on Rustlings
-date: 2026-06-12
+date: 2026-07-12
 slug: on_rustlings
 ---
 
