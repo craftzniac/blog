@@ -2,7 +2,7 @@
 title: Developing my coding style for C (1)
 description: just yapping about some ideas I have for how I should write C code
 date: 2026-07-20
-slug: developing_my_coding_style_for_C_1
+slug: developing_my_coding_style_for_c_1
 ---
 
 As a newcomer to the C programming language, one of the things I'm trying to do is develop my own style for writing C code. 
